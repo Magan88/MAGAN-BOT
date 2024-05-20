@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "fiantot27@gmail.com",
-    "password": "Rousseau00000",
+    "email": "botmagan66@gmail.com",
+    "password": "Dan@(2005)",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61550730883608",
-    ""
+    "61550730836088",
+    "61558541751212"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "magan bot|Hassan",
+  "nickNameBot": "magan bot|Hassan🐺",
   "prefix": "+",
   "database": {
     "type": "sqlite",
